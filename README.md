@@ -8,9 +8,6 @@ E-Commerce Sales & Customer Analytics using SQL
 ## 📖 Project Description
 This project analyzes e-commerce transactional data using SQL to derive meaningful business insights.
 The goal is to understand sales trends, customer behavior, product performance, and the impact of discounts on profitability.
-
-The project simulates a real-world business use case and is suitable for Data Analyst roles targeting 5–8 LPA packages.
-
 ---
 
 ## 🎯 Objectives
