@@ -115,13 +115,13 @@ The dataset reflects realistic e-commerce sales behavior.
 ## 📂 Repository Structure
 SQL-Ecommerce-Sales-Analysis/
 │
-├── 01_schema/
+├── 01_schema
 │ └── create_tables.sql
 │
-├── 02_data/
+├── 02_data
 │ └── insert_data.sql
 │
-├── 03_analysis/
+├── 03_analysis
 │ └── business_queries.sql
 │
 ├── README.md
